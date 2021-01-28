@@ -1,0 +1,16 @@
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.dll
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.xml
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+c:\ElevenFifty\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
